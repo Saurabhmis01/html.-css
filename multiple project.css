@@ -1,0 +1,335 @@
+html{
+    overflow-x: hidden;
+}
+.header {
+    display: flex;
+    font-size: 20px;
+    padding-left: 600px;
+    background-color: black;
+}
+.hero{
+    background-image: url(https://cdn.wallpapersafari.com/6/84/TWcd5I.jpg);
+    background-size: cover;
+    color: white;
+}
+.T1{
+  margin: 15px;
+  color: white;
+  padding: 0px;
+  font-size: 14px;
+} 
+.header a{
+    padding-left: 16px;
+}
+.osm{
+    padding-top: 13px;
+    margin-left: 5px;
+}
+.h1{
+    font-size: 60px;
+    padding-top: 250px;
+    margin-left: 100px;
+}
+.h2{
+    font-size: 28px;
+    margin-left: 100px;
+    padding-top: 20px;
+}
+.h3{
+    font-size: 25px;
+    margin-left: 100px;
+    margin-top: 80px;
+    border-radius: 5px;
+    background-color: blue;
+    color: white;
+    padding: 0px 50px 10px 60px;
+    
+    /* margin-top: 100px; */
+    /* margin-right: 1000px; */
+    /* margin-bottom: 200px; */
+}
+.hero div a:hover{
+    scale: 1.0;
+    transition: ;
+    background-color: rgb(53, 53, 117);
+}
+.hero{
+    background-image: url(https://thumbs.dreamstime.com/b/sap-system-software-automation-concept-virtual-screen-data-center-business-modern-technology-internet-networking-221068354.jpg);
+    background-size: cover;
+    height: 650px;
+    background-repeat: no-repeat;
+}
+#E1{
+    display: flex;
+}
+#E2{
+    font-size: 25px;
+    padding: 50px 0px 0px 150px;
+}
+#E3{
+    margin-left: 800px;
+    font-size: 25px;
+    padding-top: 10px;
+    margin-top: 70px;
+    border: 1px solid blue;
+    margin-bottom: 50px;
+    padding-bottom: 10px;
+}
+#performgrid{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+#performgrid div{
+    width: 600px;
+    height: 200px;
+    background-color: white;
+    border: 1px solid white;
+    border-radius: 15px;
+    margin: 50px;
+    padding: 0px;
+    margin-left: 30px;
+    box-shadow: 0px 5px 5px black;
+    font-size: 20px;
+    padding-left: 30px;
+}
+#performgrid div:hover{
+    scale: 1.1;
+    transition: scale 1s;
+}
+#b1{
+    font-size: 45px;
+    margin-left: 280px;
+    margin-top: 90px;
+}
+#b2{
+    font-size: 25px;
+    padding: 50px 0px 0px 150px; 
+}
+#a1{
+    font-size: 35px;
+    padding: 50px 0px 0px 150px;
+}
+#a2{
+    font-size: 25px;
+    padding: 30px 0px 0px 150px;
+}
+#a3{
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    margin: 30px 0px 30px 150px;
+    background-color: blue;
+    color: white;
+}
+#hero2{
+    background-image: url(https://www.sap.com/dam/application/shared/photos/generic/2023sapphire_product.jpg/_jcr_content/renditions/2023sapphire_product_homepage_2110_1040.jpg.adapt.1055_520.false.false.false.false.jpg/1683129310565.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#a4{
+    font-size: 25px;
+    padding: 90px 0px 0px 150px;
+}
+#performgrid1{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+#performgrid1 div{
+  width: 650px;
+  height: 430px;
+  background-color: white;
+  border: 1px solid white;
+  border-radius: 10px;
+  box-shadow: 0px 5px 5px black;
+  margin: 50px;
+  font-size: 20px;
+}
+#performgrid1 div:hover{
+    scale: 1.1;
+    transition: scale 1s;
+}
+#c1{
+    font-size: 40px;
+    margin-top: 130px;
+}
+#c1 button{
+    margin-left: 580px;
+    margin-top: 150px;
+    font-size: 25px;
+    background-color: blue;
+    color: white;
+}
+#c1 img{
+    font-size: 20px;
+}
+#runningimg{
+    display: flex;
+    padding: 80px 0px 0px 0px;
+}
+#runningimg img{
+    width: 100px;
+    margin: 25px;
+    height: 90px;
+}
+#runningimg img:hover{
+    scale: 1.3;
+    transition: scale 1s;
+}
+#c2{
+    font-size: 25px;
+    padding: 150px 0px 0px 150px;
+}
+#performgrid2{
+    display: grid;
+    grid-template-columns: auto;
+    display: flex;
+}
+#performgrid2 div{
+    width: 1100px;
+    height: 250px;
+    background-color: white;
+    border: 1px solid white;
+    border-radius: 10px;
+    box-shadow: 0px 5px 5px black;
+    margin: 50px 0px 0px 150px;
+    display: flex;
+}
+#performgrid2 div:hover{
+    scale: 1.1;
+    transition: scale 1s;
+}
+#performgrid2 div p{
+    /* display: flex; */
+    width: 300px;
+}
+#p1{
+    padding-top: 50px;
+    font-size: 20px;
+}
+#performgrid3{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+#performgrid3 div{
+    border-radius: 10px;
+    background-color: white;
+    border: 1px solid white;
+    box-shadow: 0px 5px 5px rgb(215, 212, 212);
+    width: 650px;
+    height: 430px;
+    margin: 50px;
+    font-size: 20px;
+}
+#left1{
+    margin: 0px 0px 0px 50px;
+    padding: 7px;
+}
+#performgrid3 div button{
+    background-color: blue;
+}
+#performgrid3 div:hover{
+    scale: 1.1;
+    transition: scale 1s;
+}
+#bottom{
+    padding-top: 90px;
+}
+#bottom0{
+    background-color: rgb(33, 28, 28);
+    color: white;
+    background-size: cover;
+    padding-top: 50px;
+    display: flex;
+}
+#bottom0 div p:hover{
+    scale: 1.1;
+    transition: scale 1s;
+}
+#image{
+   width: 40px;
+}
+@media screen and (max-width:1518px) {
+    #header{
+         display: none;
+    }
+}
+/*=================== explore your option page=========== */
+#page{
+    padding-top: 130px;
+    padding-left: 90px;
+    background-image: url(https://cdn.wallpapersafari.com/33/20/eAgZCb.jpg);
+    height: 500px;
+    color: white;
+}
+#page button:hover{
+    scale: 1.0;
+    transition: scale ;
+    color: black;
+    background-color: white;
+}
+#page button{
+    background-color: rgb(63, 63, 161);
+    color: white;
+}
+#page1{
+    display: flex;
+    padding: 100px;
+    margin-left: 10px;
+}
+#page1 p{
+    height: 30px;
+}
+#img0{
+    background-image: url(https://www.sap.com/dam/application/shared/graphics/notification-ribbons/Ribbon-BG-LtGrey-master.jpg/_jcr_content/renditions/auto-generated_3840_0150.jpeg.adapt.3840_150.false.false.false.false.jpg/1606924398664.jpg);
+    height: 20px;
+    padding: 20px;
+    padding: 50px;
+    margin-top: 70px;
+    display: flex;
+}
+#img0 button{
+    padding: 10px 10px 30px 10px;
+    margin-left: 90px;
+     font-size: 20px;
+      background-color: rgb(39, 39, 109);
+       color: white;
+}
+#A p{
+    padding-top: 50px;
+    text-align: center;
+    font-size: 45px;
+}
+#a{
+    width: 900px;
+    height: 200px;
+    padding-left: 300px;
+}
+#B{
+    margin-top: 350px;
+    margin-left: 600px;
+    font-size: 22px;
+    padding: 10px 30px 10px 30px;
+    color: rgb(58, 58, 225);
+}
+#B:hover{
+    scale: 1.0;
+    transition: scale 1s;
+    background-color: rgb(49, 49, 153);
+    color: white;
+}
+#C{
+    display: flex;
+}
+#Contact a{
+    margin-left: 670px;
+    border-radius: 5px;
+    border: 1px solid;
+    padding: 10px 30px 10px 30px;
+    background-color: rgb(38, 38, 111);
+    color: white;
+}
+#contact a:hover{
+    scale: 1.0;
+    transition: scale 1s;
+    background-color: rgb(75, 75, 221);
+    color: white;
+}
